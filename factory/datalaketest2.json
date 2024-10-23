@@ -1,0 +1,9 @@
+{
+	"name": "datalaketest2",
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02d98e78-9cb5-471e-a3f0-ad3b2cb2bfb7",
+		"tenantId": "3b8dee91-d90f-47ae-84d3-4412bb05f85f"
+	}
+}
